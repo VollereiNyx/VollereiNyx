@@ -33,7 +33,7 @@
 
 ## 📌 Featured Projects  
 
-- 🎮 **Sudoku Generator (Python)** → *Work in progress*  
+- 🎮 [**Sudoku Generator (Python)**](https://github.com/VollereiNyx/Sudoku) → A Python project that generates Sudoku puzzles  
 - 📝 **Student Roadmap Planner (AI-powered)** → Helping students organize study goals  
 - 🏆 **Quiz Game Web (React)** → Inspired by “Đường lên đỉnh Olympia”  
 
