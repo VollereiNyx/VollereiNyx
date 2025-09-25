@@ -32,11 +32,15 @@
 ---
 ## 📌 Featured Projects  
 
-- 🎮 [**Sudoku Generator (Python)**](https://github.com/VollereiNyx/Sudoku) → A Python project that generates Sudoku puzzles ✅  
-- 📝 [**Student Roadmap Planner (AI-powered)**](https://github.com/ngothaidat/StudentRoadmapPlanner) → Helping students organize study goals *(In Progress 🚧)*  
-- 🏆 [**Quiz Game Web (React)**](https://github.com/ngothaidat/QuizGame) → Inspired by “Đường lên đỉnh Olympia” *(In Progress 🚧)*  
+- 🎮 [**Sudoku Generator (Python)**](https://github.com/VollereiNyx/Sudoku) → A Python project that generates Sudoku puzzles  
+  ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
 
-👉 Check them out in my pinned repositories!  
+- 📝 **Student Roadmap Planner (AI-powered)** → Helping students organize study goals  
+  ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)  
+
+- 🏆 **Quiz Game Web (React)** → Inspired by “Đường lên đỉnh Olympia”  
+  ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)  
+
 ---
 
 ## ⚡ GitHub Stats  
